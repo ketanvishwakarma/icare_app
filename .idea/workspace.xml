@@ -27,7 +27,10 @@
     <select />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="ec3a102d-7398-4be1-90b0-037dbeaa6fd7" name="Default Changelist" comment="initial commit" />
+    <list default="true" id="ec3a102d-7398-4be1-90b0-037dbeaa6fd7" name="Default Changelist" comment="initial commit">
+      <change afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -66,6 +69,7 @@
     <property name="DEBUGGER_ID" value="Java" />
     <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="SHOW_ALL_PROCESSES" value="true" />
     <property name="dart.analysis.tool.window.visible" value="false" />
     <property name="io.flutter.reload.alreadyRun" value="true" />
@@ -285,14 +289,14 @@
       <screen x="0" y="0" width="1536" height="834" />
     </state>
     <state x="549" y="172" key="FileChooserDialogImpl/0.0.1536.834@0.0.1536.834" timestamp="1618897588516" />
-    <state x="646" y="315" key="Github.ShareDialog" timestamp="1619774008736">
+    <state x="646" y="315" key="Github.ShareDialog" timestamp="1619774182227">
       <screen x="0" y="0" width="1536" height="834" />
     </state>
-    <state x="646" y="315" key="Github.ShareDialog/0.0.1536.834@0.0.1536.834" timestamp="1619774008736" />
-    <state x="550" y="114" key="Github.UntrackedFilesDialog" timestamp="1619772856310">
+    <state x="646" y="315" key="Github.ShareDialog/0.0.1536.834@0.0.1536.834" timestamp="1619774182227" />
+    <state x="550" y="114" key="Github.UntrackedFilesDialog" timestamp="1619774231581">
       <screen x="0" y="0" width="1536" height="834" />
     </state>
-    <state x="550" y="114" key="Github.UntrackedFilesDialog/0.0.1536.834@0.0.1536.834" timestamp="1619772856310" />
+    <state x="550" y="114" key="Github.UntrackedFilesDialog/0.0.1536.834@0.0.1536.834" timestamp="1619774231581" />
     <state width="1491" height="284" key="GridCell.Tab.0.bottom" timestamp="1619609241959">
       <screen x="0" y="0" width="1536" height="834" />
     </state>
