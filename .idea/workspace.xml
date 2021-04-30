@@ -1,0 +1,357 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AndroidLogFilters">
+    <option name="TOOL_WINDOW_LOG_LEVEL" value="error" />
+    <option name="TOOL_WINDOW_CONFIGURED_FILTER" value="Show only selected application" />
+    <option name="TOOL_WINDOW_REGEXP_FILTER" value="false" />
+  </component>
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="NONE" />
+  </component>
+  <component name="BranchesTreeState">
+    <expand>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="LOCAL_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="REMOTE_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="REMOTE_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="GROUP_NODE:origin" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+    </expand>
+    <select />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="ec3a102d-7398-4be1-90b0-037dbeaa6fd7" name="Default Changelist" comment="initial commit" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="ExecutionTargetManager" SELECTED_TARGET="device_and_snapshot_combo_box_target[Pixel_2_XL_API_30]" />
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Dart File" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="PUSH_TAGS">
+      <GitPushTagMode>
+        <option name="argument" value="--follow-tags" />
+        <option name="title" value="Current Branch" />
+      </GitPushTagMode>
+    </option>
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="ProjectId" id="1jRntUXiDXGd0s4PyjcKPGeKGXd" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="ASKED_ADD_EXTERNAL_FILES" value="true" />
+    <property name="ASKED_SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
+    <property name="DEBUGGABLE_DEVICE" value="emulator-5554" />
+    <property name="DEBUGGABLE_PROCESS" value="com.swastik.flutter.flutter_app" />
+    <property name="DEBUGGER_ID" value="Java" />
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="SHOW_ALL_PROCESSES" value="true" />
+    <property name="dart.analysis.tool.window.visible" value="false" />
+    <property name="io.flutter.reload.alreadyRun" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="project.structure.last.edited" value="Global Libraries" />
+    <property name="project.structure.proportion" value="0.17" />
+    <property name="project.structure.side.proportion" value="0.2" />
+    <property name="run.code.analysis.last.selected.profile" value="pProject Default" />
+    <property name="settings.editor.selected.configurable" value="project.propVCSSupport.Mappings" />
+    <property name="show.migrate.to.gradle.popup" value="false" />
+  </component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Projects\Ketan\flutter_app\assets" />
+    </key>
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\Projects\Ketan\flutter_app" />
+      <recent name="C:\Projects\Ketan\flutter_app\lib" />
+      <recent name="C:\Projects\Ketan\flutter_app\assets\fonts" />
+    </key>
+  </component>
+  <component name="RunManager" selected="Flutter.main.dart">
+    <configuration name="main.dart" type="FlutterRunConfigurationType" factoryName="Flutter">
+      <option name="filePath" value="$PROJECT_DIR$/lib/main.dart" />
+      <method v="2" />
+    </configuration>
+    <configuration name="C:/Projects/Ketan/flutter_app [signingReport]" type="GradleRunConfiguration" factoryName="Gradle" temporary="true">
+      <ExternalSystemSettings>
+        <option name="executionName" />
+        <option name="externalProjectPath" value="$PROJECT_DIR$" />
+        <option name="externalSystemIdString" value="GRADLE" />
+        <option name="scriptParameters" value="" />
+        <option name="taskDescriptions">
+          <list />
+        </option>
+        <option name="taskNames">
+          <list>
+            <option value="signingReport" />
+          </list>
+        </option>
+        <option name="vmOptions" value="" />
+      </ExternalSystemSettings>
+      <GradleScriptDebugEnabled>true</GradleScriptDebugEnabled>
+      <method v="2" />
+    </configuration>
+    <configuration name="C:/Projects/Ketan/flutter_app" type="GradleRunConfiguration" factoryName="Gradle" temporary="true">
+      <ExternalSystemSettings>
+        <option name="executionName" />
+        <option name="externalProjectPath" value="$PROJECT_DIR$" />
+        <option name="externalSystemIdString" value="GRADLE" />
+        <option name="scriptParameters" value="" />
+        <option name="taskDescriptions">
+          <list />
+        </option>
+        <option name="taskNames">
+          <list />
+        </option>
+        <option name="vmOptions" value="" />
+      </ExternalSystemSettings>
+      <GradleScriptDebugEnabled>true</GradleScriptDebugEnabled>
+      <method v="2" />
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Gradle.C:/Projects/Ketan/flutter_app [signingReport]" />
+        <item itemvalue="Gradle.C:/Projects/Ketan/flutter_app" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="StructuralSearchPlugin">
+    <searchConfiguration name="user defined" created="1616764360751" text="addUser" recursive="true" caseInsensitive="true" type="JAVA" pattern_context="default" scope_type="DIRECTORY" scope_descriptor="*C:\Projects\Ketan\flutter_app\lib" history="1">
+      <constraint name="__context__" within="" contains="" />
+    </searchConfiguration>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="ec3a102d-7398-4be1-90b0-037dbeaa6fd7" name="Default Changelist" comment="" />
+      <created>1603775987173</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1603775987173</updated>
+    </task>
+    <task id="LOCAL-00001" summary="new">
+      <created>1616159636652</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1616159636652</updated>
+    </task>
+    <task id="LOCAL-00002" summary="Done With Authentication">
+      <created>1616245560821</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1616245560822</updated>
+    </task>
+    <task id="LOCAL-00003" summary="Done With Profile">
+      <created>1616569710180</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1616569710180</updated>
+    </task>
+    <task id="LOCAL-00004" summary="Done With Profile">
+      <created>1616570830206</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1616570830206</updated>
+    </task>
+    <task id="LOCAL-00005" summary="Done With DrModule">
+      <created>1617004195927</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1617004195928</updated>
+    </task>
+    <task id="LOCAL-00006" summary="Till Review 1">
+      <created>1617612619263</created>
+      <option name="number" value="00006" />
+      <option name="presentableId" value="LOCAL-00006" />
+      <option name="project" value="LOCAL" />
+      <updated>1617612619265</updated>
+    </task>
+    <task id="LOCAL-00007" summary="initial commit">
+      <created>1619773555461</created>
+      <option name="number" value="00007" />
+      <option name="presentableId" value="LOCAL-00007" />
+      <option name="project" value="LOCAL" />
+      <updated>1619773555461</updated>
+    </task>
+    <option name="localTasksCounter" value="8" />
+    <servers />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+    <option name="oldMeFiltersMigrated" value="true" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <option name="ADD_EXTERNAL_FILES_SILENTLY" value="true" />
+    <ignored-roots>
+      <path value="$PROJECT_DIR$" />
+    </ignored-roots>
+    <MESSAGE value="new" />
+    <MESSAGE value="Done With Authentication" />
+    <MESSAGE value="Done With Profile" />
+    <MESSAGE value="Done With DrModule" />
+    <MESSAGE value="Till Review 1" />
+    <MESSAGE value="initial commit" />
+    <option name="LAST_COMMIT_MESSAGE" value="initial commit" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="654" y="280" key="#Notifications" timestamp="1616739445914">
+      <screen x="0" y="0" width="1536" height="834" />
+    </state>
+    <state x="654" y="280" key="#Notifications/0.0.1536.834@0.0.1536.834" timestamp="1616739445914" />
+    <state x="286" y="163" key="#PSD" timestamp="1613847129089">
+      <screen x="0" y="0" width="1536" height="834" />
+    </state>
+    <state x="286" y="163" key="#PSD/0.0.1536.834@0.0.1536.834" timestamp="1613847129089" />
+    <state x="755" y="246" key="#com.intellij.fileTypes.FileTypeChooser" timestamp="1616178240201">
+      <screen x="0" y="0" width="1536" height="834" />
+    </state>
+    <state x="755" y="246" key="#com.intellij.fileTypes.FileTypeChooser/0.0.1536.834@0.0.1536.834" timestamp="1616178240201" />
+    <state x="627" y="128" key="#com.intellij.openapi.roots.ui.configuration.libraryEditor.LibraryEditorDialog" timestamp="1616390509296">
+      <screen x="0" y="0" width="1536" height="834" />
+    </state>
+    <state x="627" y="128" key="#com.intellij.openapi.roots.ui.configuration.libraryEditor.LibraryEditorDialog/0.0.1536.834@0.0.1536.834" timestamp="1616390509296" />
+    <state x="79" y="217" key="#com.intellij.openapi.updateSettings.impl.PluginUpdateInfoDialog" timestamp="1616386811312">
+      <screen x="0" y="0" width="1536" height="834" />
+    </state>
+    <state x="79" y="217" key="#com.intellij.openapi.updateSettings.impl.PluginUpdateInfoDialog/0.0.1536.834@0.0.1536.834" timestamp="1616386811312" />
+    <state x="499" y="164" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog" timestamp="1616994425629">
+      <screen x="0" y="0" width="1536" height="834" />
+    </state>
+    <state x="499" y="164" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog/0.0.1536.834@0.0.1536.834" timestamp="1616994425629" />
+    <state x="297" y="245" width="941" height="344" key="#com.intellij.structuralsearch.plugin.ui.StructuralSearchDialog" timestamp="1616764360734">
+      <screen x="0" y="0" width="1536" height="834" />
+    </state>
+    <state x="297" y="245" width="941" height="344" key="#com.intellij.structuralsearch.plugin.ui.StructuralSearchDialog/0.0.1536.834@0.0.1536.834" timestamp="1616764360734" />
+    <state x="516" y="272" key="ANALYSIS_DLG_com.intellij.analysis.BaseAnalysisAction$1" timestamp="1616927904943">
+      <screen x="0" y="0" width="1536" height="834" />
+    </state>
+    <state x="516" y="272" key="ANALYSIS_DLG_com.intellij.analysis.BaseAnalysisAction$1/0.0.1536.834@0.0.1536.834" timestamp="1616927904943" />
+    <state x="57" y="191" width="1021" height="578" key="AVDManager" timestamp="1619608512398">
+      <screen x="0" y="0" width="1536" height="834" />
+    </state>
+    <state x="57" y="191" width="1021" height="578" key="AVDManager/0.0.1536.834@0.0.1536.834" timestamp="1619608512398" />
+    <state x="586" y="164" key="AndroidProcessChooserDialog" timestamp="1613849959177">
+      <screen x="0" y="0" width="1536" height="834" />
+    </state>
+    <state x="586" y="164" key="AndroidProcessChooserDialog/0.0.1536.834@0.0.1536.834" timestamp="1613849959177" />
+    <state width="548" height="466" key="DebuggerActiveHint" timestamp="1613849993336">
+      <screen x="0" y="0" width="1536" height="834" />
+    </state>
+    <state width="548" height="466" key="DebuggerActiveHint/0.0.1536.834@0.0.1536.834" timestamp="1613849993336" />
+    <state width="336" height="442" key="Diff.GoToChangePopup" timestamp="1619773598620">
+      <screen x="0" y="0" width="1536" height="834" />
+    </state>
+    <state width="336" height="442" key="Diff.GoToChangePopup/0.0.1536.834@0.0.1536.834" timestamp="1619773598620" />
+    <state x="93" y="93" width="1350" height="648" key="DiffContextDialog" timestamp="1619773628085">
+      <screen x="0" y="0" width="1536" height="834" />
+    </state>
+    <state x="93" y="93" width="1350" height="648" key="DiffContextDialog/0.0.1536.834@0.0.1536.834" timestamp="1619773628085" />
+    <state x="549" y="172" key="FileChooserDialogImpl" timestamp="1618897588516">
+      <screen x="0" y="0" width="1536" height="834" />
+    </state>
+    <state x="549" y="172" key="FileChooserDialogImpl/0.0.1536.834@0.0.1536.834" timestamp="1618897588516" />
+    <state x="646" y="315" key="Github.ShareDialog" timestamp="1619774008736">
+      <screen x="0" y="0" width="1536" height="834" />
+    </state>
+    <state x="646" y="315" key="Github.ShareDialog/0.0.1536.834@0.0.1536.834" timestamp="1619774008736" />
+    <state x="550" y="114" key="Github.UntrackedFilesDialog" timestamp="1619772856310">
+      <screen x="0" y="0" width="1536" height="834" />
+    </state>
+    <state x="550" y="114" key="Github.UntrackedFilesDialog/0.0.1536.834@0.0.1536.834" timestamp="1619772856310" />
+    <state width="1491" height="284" key="GridCell.Tab.0.bottom" timestamp="1619609241959">
+      <screen x="0" y="0" width="1536" height="834" />
+    </state>
+    <state width="1491" height="284" key="GridCell.Tab.0.bottom/0.0.1536.834@0.0.1536.834" timestamp="1619609241959" />
+    <state width="1491" height="284" key="GridCell.Tab.0.center" timestamp="1619609241958">
+      <screen x="0" y="0" width="1536" height="834" />
+    </state>
+    <state width="1491" height="284" key="GridCell.Tab.0.center/0.0.1536.834@0.0.1536.834" timestamp="1619609241958" />
+    <state width="1491" height="284" key="GridCell.Tab.0.left" timestamp="1619609241958">
+      <screen x="0" y="0" width="1536" height="834" />
+    </state>
+    <state width="1491" height="284" key="GridCell.Tab.0.left/0.0.1536.834@0.0.1536.834" timestamp="1619609241958" />
+    <state width="1491" height="284" key="GridCell.Tab.0.right" timestamp="1619609241958">
+      <screen x="0" y="0" width="1536" height="834" />
+    </state>
+    <state width="1491" height="284" key="GridCell.Tab.0.right/0.0.1536.834@0.0.1536.834" timestamp="1619609241958" />
+    <state x="555" y="120" key="RollbackChangesDialog" timestamp="1619773944649">
+      <screen x="0" y="0" width="1536" height="834" />
+    </state>
+    <state x="555" y="120" key="RollbackChangesDialog/0.0.1536.834@0.0.1536.834" timestamp="1619773944649" />
+    <state x="277" y="0" key="SettingsEditor" timestamp="1619774144601">
+      <screen x="0" y="0" width="1536" height="834" />
+    </state>
+    <state x="277" y="0" key="SettingsEditor/0.0.1536.834@0.0.1536.834" timestamp="1619774144601" />
+    <state x="490" y="158" width="540" height="524" key="StructurePopup" timestamp="1616476537092">
+      <screen x="0" y="0" width="1536" height="834" />
+    </state>
+    <state x="490" y="158" width="540" height="524" key="StructurePopup/0.0.1536.834@0.0.1536.834" timestamp="1616476537092" />
+    <state x="361" y="150" key="Vcs.Push.Dialog.v2" timestamp="1619773729664">
+      <screen x="0" y="0" width="1536" height="834" />
+    </state>
+    <state x="361" y="150" key="Vcs.Push.Dialog.v2/0.0.1536.834@0.0.1536.834" timestamp="1619773729664" />
+    <state x="578" y="331" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2" timestamp="1616475214492">
+      <screen x="0" y="0" width="1536" height="834" />
+    </state>
+    <state x="578" y="331" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2/0.0.1536.834@0.0.1536.834" timestamp="1616475214492" />
+    <state x="93" y="93" width="1350" height="648" key="dock-window-1" timestamp="1618912903478">
+      <screen x="0" y="0" width="1536" height="834" />
+    </state>
+    <state x="93" y="93" width="1350" height="648" key="dock-window-1/0.0.1536.834@0.0.1536.834" timestamp="1618912903478" />
+    <state x="482" y="261" key="edit.logcat.filter.dialog.dimensions" timestamp="1616649453838">
+      <screen x="0" y="0" width="1536" height="834" />
+    </state>
+    <state x="482" y="261" key="edit.logcat.filter.dialog.dimensions/0.0.1536.834@0.0.1536.834" timestamp="1616649453838" />
+    <state x="475" y="150" width="586" height="534" key="find.popup" timestamp="1619262521615">
+      <screen x="0" y="0" width="1536" height="834" />
+    </state>
+    <state x="475" y="150" width="586" height="534" key="find.popup/0.0.1536.834@0.0.1536.834" timestamp="1619262521615" />
+    <state x="585" y="312" key="git4idea.ui.GitResetDialog" timestamp="1619773691319">
+      <screen x="0" y="0" width="1536" height="834" />
+    </state>
+    <state x="585" y="312" key="git4idea.ui.GitResetDialog/0.0.1536.834@0.0.1536.834" timestamp="1619773691319" />
+    <state x="425" y="189" width="672" height="677" key="run.anything.popup" timestamp="1618984438886">
+      <screen x="0" y="0" width="1536" height="834" />
+    </state>
+    <state x="425" y="189" width="672" height="677" key="run.anything.popup/0.0.1536.834@0.0.1536.834" timestamp="1618984438886" />
+    <state x="432" y="154" width="670" height="58" key="search.everywhere.popup" timestamp="1618906929061">
+      <screen x="0" y="0" width="1536" height="834" />
+    </state>
+    <state x="432" y="154" width="670" height="58" key="search.everywhere.popup/0.0.1536.834@0.0.1536.834" timestamp="1618906929061" />
+  </component>
+</project>
